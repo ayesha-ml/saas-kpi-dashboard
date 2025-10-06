@@ -1,0 +1,8 @@
+Ignore Streamlit Secrets (Crucial for Security)
+.streamlit/secrets.toml
+
+Ignore Python runtime files
+pycache/
+
+Ignore temporary files created by Streamlit/Jupyter
+.ipynb_checkpoints/
